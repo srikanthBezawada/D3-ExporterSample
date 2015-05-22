@@ -1,0 +1,2170 @@
+{
+  "nodes" : [ {
+    "id" : "1692",
+    "selected" : true,
+    "group" : 1,
+    "shared_name" : "CDK4",
+    "SUID" : 1692,
+    "name" : "CDK4"
+  }, {
+    "id" : "1689",
+    "selected" : false,
+    "group" : 1,
+    "shared_name" : "CDK6",
+    "SUID" : 1689,
+    "name" : "CDK6"
+  }, {
+    "id" : "1687",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "CCND2",
+    "SUID" : 1687,
+    "name" : "CCND2"
+  }, {
+    "id" : "1684",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "CCND1",
+    "SUID" : 1684,
+    "name" : "CCND1"
+  }, {
+    "id" : "1680",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "CDKN2B",
+    "SUID" : 1680,
+    "name" : "CDKN2B"
+  }, {
+    "id" : "1678",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "CDKN2C",
+    "SUID" : 1678,
+    "name" : "CDKN2C"
+  }, {
+    "id" : "1676",
+    "selected" : false,
+    "group" : 1,
+    "shared_name" : "INK4",
+    "SUID" : 1676,
+    "name" : "INK4"
+  }, {
+    "id" : "1675",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "P16",
+    "SUID" : 1675,
+    "name" : "P16"
+  }, {
+    "id" : "1673",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "CCND-CDK4_complex",
+    "SUID" : 1673,
+    "name" : "CCND-CDK4_complex"
+  }, {
+    "id" : "1671",
+    "selected" : false,
+    "group" : 4,
+    "shared_name" : "CCND-CDK6_complex",
+    "SUID" : 1671,
+    "name" : "CCND-CDK6_complex"
+  }, {
+    "id" : "1669",
+    "selected" : false,
+    "group" : 5,
+    "shared_name" : "G1/S_progression",
+    "SUID" : 1669,
+    "name" : "G1/S_progression"
+  }, {
+    "id" : "1667",
+    "selected" : false,
+    "group" : 4,
+    "shared_name" : "E2F1",
+    "SUID" : 1667,
+    "name" : "E2F1"
+  }, {
+    "id" : "1665",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "RB1",
+    "SUID" : 1665,
+    "name" : "RB1"
+  }, {
+    "id" : "1662",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "CDK2",
+    "SUID" : 1662,
+    "name" : "CDK2"
+  }, {
+    "id" : "1660",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "CCNE-CDK2_complex",
+    "SUID" : 1660,
+    "name" : "CCNE-CDK2_complex"
+  }, {
+    "id" : "1659",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "CCNE1",
+    "SUID" : 1659,
+    "name" : "CCNE1"
+  }, {
+    "id" : "1657",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "apoptosis",
+    "SUID" : 1657,
+    "name" : "apoptosis"
+  }, {
+    "id" : "1655",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "G2/M_arrest",
+    "SUID" : 1655,
+    "name" : "G2/M_arrest"
+  }, {
+    "id" : "1652",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "DNA_repair",
+    "SUID" : 1652,
+    "name" : "DNA_repair"
+  }, {
+    "id" : "1650",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "MSH6",
+    "SUID" : 1650,
+    "name" : "MSH6"
+  }, {
+    "id" : "1648",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "BRCA2",
+    "SUID" : 1648,
+    "name" : "BRCA2"
+  }, {
+    "id" : "1646",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "BRCC",
+    "SUID" : 1646,
+    "name" : "BRCC"
+  }, {
+    "id" : "1644",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "BASC",
+    "SUID" : 1644,
+    "name" : "BASC"
+  }, {
+    "id" : "1642",
+    "selected" : false,
+    "group" : 4,
+    "shared_name" : "BRCA1",
+    "SUID" : 1642,
+    "name" : "BRCA1"
+  }, {
+    "id" : "1640",
+    "selected" : false,
+    "group" : 4,
+    "shared_name" : "ATM",
+    "SUID" : 1640,
+    "name" : "ATM"
+  }, {
+    "id" : "1638",
+    "selected" : false,
+    "group" : 1,
+    "shared_name" : "EP300",
+    "SUID" : 1638,
+    "name" : "EP300"
+  }, {
+    "id" : "1636",
+    "selected" : false,
+    "group" : 1,
+    "shared_name" : "MDM4",
+    "SUID" : 1636,
+    "name" : "MDM4"
+  }, {
+    "id" : "1634",
+    "selected" : false,
+    "group" : 5,
+    "shared_name" : "TP53",
+    "SUID" : 1634,
+    "name" : "TP53"
+  }, {
+    "id" : "1632",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "ARF",
+    "SUID" : 1632,
+    "name" : "ARF"
+  }, {
+    "id" : "1630",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "TSC2",
+    "SUID" : 1630,
+    "name" : "TSC2"
+  }, {
+    "id" : "1628",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "TSC1",
+    "SUID" : 1628,
+    "name" : "TSC1"
+  }, {
+    "id" : "1626",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "cell_survival",
+    "SUID" : 1626,
+    "name" : "cell_survival"
+  }, {
+    "id" : "1624",
+    "selected" : false,
+    "group" : 1,
+    "shared_name" : "MDM2",
+    "SUID" : 1624,
+    "name" : "MDM2"
+  }, {
+    "id" : "1622",
+    "selected" : false,
+    "group" : 4,
+    "shared_name" : "TSC_complex",
+    "SUID" : 1622,
+    "name" : "TSC_complex"
+  }, {
+    "id" : "1619",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "CDKN1B",
+    "SUID" : 1619,
+    "name" : "CDKN1B"
+  }, {
+    "id" : "1617",
+    "selected" : false,
+    "group" : 4,
+    "shared_name" : "CDKN1A",
+    "SUID" : 1617,
+    "name" : "CDKN1A"
+  }, {
+    "id" : "1609",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "cell_cycle_progression",
+    "SUID" : 1609,
+    "name" : "cell_cycle_progression"
+  }, {
+    "id" : "1607",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "ERK",
+    "SUID" : 1607,
+    "name" : "ERK"
+  }, {
+    "id" : "1604",
+    "selected" : false,
+    "group" : 5,
+    "shared_name" : "MEK",
+    "SUID" : 1604,
+    "name" : "MEK"
+  }, {
+    "id" : "1601",
+    "selected" : false,
+    "group" : 5,
+    "shared_name" : "RAF1",
+    "SUID" : 1601,
+    "name" : "RAF1"
+  }, {
+    "id" : "1599",
+    "selected" : false,
+    "group" : 5,
+    "shared_name" : "BRAF",
+    "SUID" : 1599,
+    "name" : "BRAF"
+  }, {
+    "id" : "1597",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "ARAF",
+    "SUID" : 1597,
+    "name" : "ARAF"
+  }, {
+    "id" : "1595",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "RAF",
+    "SUID" : 1595,
+    "name" : "RAF"
+  }, {
+    "id" : "1593",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "PRKCA",
+    "SUID" : 1593,
+    "name" : "PRKCA"
+  }, {
+    "id" : "1591",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "PRKCB1",
+    "SUID" : 1591,
+    "name" : "PRKCB1"
+  }, {
+    "id" : "1589",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "PRKCI",
+    "SUID" : 1589,
+    "name" : "PRKCI"
+  }, {
+    "id" : "1587",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "PRKCD",
+    "SUID" : 1587,
+    "name" : "PRKCD"
+  }, {
+    "id" : "1585",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "PRKCG",
+    "SUID" : 1585,
+    "name" : "PRKCG"
+  }, {
+    "id" : "1583",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "PRKCH",
+    "SUID" : 1583,
+    "name" : "PRKCH"
+  }, {
+    "id" : "1581",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "PRKCQ",
+    "SUID" : 1581,
+    "name" : "PRKCQ"
+  }, {
+    "id" : "1579",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "PRKCZ",
+    "SUID" : 1579,
+    "name" : "PRKCZ"
+  }, {
+    "id" : "1577",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "PKC",
+    "SUID" : 1577,
+    "name" : "PKC"
+  }, {
+    "id" : "1575",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "PLCG",
+    "SUID" : 1575,
+    "name" : "PLCG"
+  }, {
+    "id" : "1573",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "NRAS",
+    "SUID" : 1573,
+    "name" : "NRAS"
+  }, {
+    "id" : "1571",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "HRAS",
+    "SUID" : 1571,
+    "name" : "HRAS"
+  }, {
+    "id" : "1569",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "KRAS",
+    "SUID" : 1569,
+    "name" : "KRAS"
+  }, {
+    "id" : "1567",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "NF1",
+    "SUID" : 1567,
+    "name" : "NF1"
+  }, {
+    "id" : "1565",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "RAS",
+    "SUID" : 1565,
+    "name" : "RAS"
+  }, {
+    "id" : "1562",
+    "selected" : false,
+    "group" : 1,
+    "shared_name" : "CBL",
+    "SUID" : 1562,
+    "name" : "CBL"
+  }, {
+    "id" : "1561",
+    "selected" : false,
+    "group" : 1,
+    "shared_name" : "SPRY2",
+    "SUID" : 1561,
+    "name" : "SPRY2"
+  }, {
+    "id" : "1559",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "GRB2",
+    "SUID" : 1559,
+    "name" : "GRB2"
+  }, {
+    "id" : "1557",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "ERRFI1",
+    "SUID" : 1557,
+    "name" : "ERRFI1"
+  }, {
+    "id" : "1552",
+    "selected" : false,
+    "group" : 1,
+    "shared_name" : "IGF1R",
+    "SUID" : 1552,
+    "name" : "IGF1R"
+  }, {
+    "id" : "1550",
+    "selected" : false,
+    "shared_name" : "RTK",
+    "SUID" : 1550,
+    "name" : "RTK"
+  }, {
+    "id" : "1549",
+    "selected" : false,
+    "group" : 1,
+    "shared_name" : "MET",
+    "SUID" : 1549,
+    "name" : "MET"
+  }, {
+    "id" : "1547",
+    "selected" : false,
+    "shared_name" : "FGFR2",
+    "SUID" : 1547,
+    "name" : "FGFR2"
+  }, {
+    "id" : "1545",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "FGFR",
+    "SUID" : 1545,
+    "name" : "FGFR"
+  }, {
+    "id" : "1544",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "FGFR1",
+    "SUID" : 1544,
+    "name" : "FGFR1"
+  }, {
+    "id" : "1542",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "ERBB2",
+    "SUID" : 1542,
+    "name" : "ERBB2"
+  }, {
+    "id" : "1540",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "EGFR",
+    "SUID" : 1540,
+    "name" : "EGFR"
+  }, {
+    "id" : "1538",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "EGFRF",
+    "SUID" : 1538,
+    "name" : "EGFRF"
+  }, {
+    "id" : "1537",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "ERBB3",
+    "SUID" : 1537,
+    "name" : "ERBB3"
+  }, {
+    "id" : "1535",
+    "selected" : false,
+    "group" : 1,
+    "shared_name" : "PDGFRB",
+    "SUID" : 1535,
+    "name" : "PDGFRB"
+  }, {
+    "id" : "1533",
+    "selected" : false,
+    "group" : 1,
+    "shared_name" : "PDGFR",
+    "SUID" : 1533,
+    "name" : "PDGFR"
+  }, {
+    "id" : "1532",
+    "selected" : false,
+    "group" : 1,
+    "shared_name" : "PDGFRA",
+    "SUID" : 1532,
+    "name" : "PDGFRA"
+  }, {
+    "id" : "1530",
+    "selected" : false,
+    "group" : 1,
+    "shared_name" : "FOXO4",
+    "SUID" : 1530,
+    "name" : "FOXO4"
+  }, {
+    "id" : "1528",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "FOXO3",
+    "SUID" : 1528,
+    "name" : "FOXO3"
+  }, {
+    "id" : "1526",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "FOXO",
+    "SUID" : 1526,
+    "name" : "FOXO"
+  }, {
+    "id" : "1525",
+    "selected" : false,
+    "shared_name" : "FOXO1",
+    "SUID" : 1525,
+    "name" : "FOXO1"
+  }, {
+    "id" : "1522",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "GAB1",
+    "SUID" : 1522,
+    "name" : "GAB1"
+  }, {
+    "id" : "1519",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "PTEN",
+    "SUID" : 1519,
+    "name" : "PTEN"
+  }, {
+    "id" : "1517",
+    "selected" : false,
+    "group" : 4,
+    "shared_name" : "SRC",
+    "SUID" : 1517,
+    "name" : "SRC"
+  }, {
+    "id" : "1515",
+    "selected" : false,
+    "group" : 4,
+    "shared_name" : "IRS1",
+    "SUID" : 1515,
+    "name" : "IRS1"
+  }, {
+    "id" : "1513",
+    "selected" : false,
+    "group" : 4,
+    "shared_name" : "AKT3",
+    "SUID" : 1513,
+    "name" : "AKT3"
+  }, {
+    "id" : "1511",
+    "selected" : false,
+    "group" : 4,
+    "shared_name" : "AKT2",
+    "SUID" : 1511,
+    "name" : "AKT2"
+  }, {
+    "id" : "1509",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "AKT1",
+    "SUID" : 1509,
+    "name" : "AKT1"
+  }, {
+    "id" : "1507",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "AKT",
+    "SUID" : 1507,
+    "name" : "AKT"
+  }, {
+    "id" : "1505",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "PDPK1",
+    "SUID" : 1505,
+    "name" : "PDPK1"
+  }, {
+    "id" : "1503",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "PIP3",
+    "SUID" : 1503,
+    "name" : "PIP3"
+  }, {
+    "id" : "1501",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "PIK3R3",
+    "SUID" : 1501,
+    "name" : "PIK3R3"
+  }, {
+    "id" : "1499",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "PIK3R2",
+    "SUID" : 1499,
+    "name" : "PIK3R2"
+  }, {
+    "id" : "1497",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "PIK3R1",
+    "SUID" : 1497,
+    "name" : "PIK3R1"
+  }, {
+    "id" : "1495",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "PI3K1B",
+    "SUID" : 1495,
+    "name" : "PI3K1B"
+  }, {
+    "id" : "1494",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "PIK3CG",
+    "SUID" : 1494,
+    "name" : "PIK3CG"
+  }, {
+    "id" : "1492",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "PIK3CB",
+    "SUID" : 1492,
+    "name" : "PIK3CB"
+  }, {
+    "id" : "1490",
+    "selected" : false,
+    "group" : 4,
+    "shared_name" : "PI3K1A",
+    "SUID" : 1490,
+    "name" : "PI3K1A"
+  }, {
+    "id" : "1489",
+    "selected" : false,
+    "group" : 3,
+    "shared_name" : "PIK3CA",
+    "SUID" : 1489,
+    "name" : "PIK3CA"
+  }, {
+    "id" : "1486",
+    "selected" : false,
+    "group" : 5,
+    "shared_name" : "PIK3C2G",
+    "SUID" : 1486,
+    "name" : "PIK3C2G"
+  }, {
+    "id" : "1484",
+    "selected" : false,
+    "group" : 4,
+    "shared_name" : "PIK3C2A",
+    "SUID" : 1484,
+    "name" : "PIK3C2A"
+  }, {
+    "id" : "1483",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "PI3K2",
+    "SUID" : 1483,
+    "name" : "PI3K2"
+  }, {
+    "id" : "1481",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "cell_migration",
+    "SUID" : 1481,
+    "name" : "cell_migration"
+  }, {
+    "id" : "1479",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "PI_3_P",
+    "SUID" : 1479,
+    "name" : "PI_3_P"
+  }, {
+    "id" : "1477",
+    "selected" : false,
+    "group" : 1,
+    "shared_name" : "PIK3C2B",
+    "SUID" : 1477,
+    "name" : "PIK3C2B"
+  }, {
+    "id" : "1476",
+    "selected" : false,
+    "group" : 2,
+    "shared_name" : "LPA",
+    "SUID" : 1476,
+    "name" : "LPA"
+  } ],
+  "links" : [ {
+    "id" : "1693",
+    "source" : 0,
+    "target" : 8,
+    "selected" : false,
+    "SUID" : 1693,
+    "name" : "CDK4 (-a>) CCND-CDK4_complex",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "CDK4 (-a>) CCND-CDK4_complex",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1690",
+    "source" : 1,
+    "target" : 9,
+    "selected" : false,
+    "SUID" : 1690,
+    "name" : "CDK6 (-a>) CCND-CDK6_complex",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "CDK6 (-a>) CCND-CDK6_complex",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1709",
+    "source" : 2,
+    "target" : 59,
+    "selected" : false,
+    "SUID" : 1709,
+    "name" : "CCND2 (-a>) SPRY2",
+    "value" : 6,
+    "interaction" : "-a>",
+    "shared_name" : "CCND2 (-a>) SPRY2",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1691",
+    "source" : 2,
+    "target" : 8,
+    "selected" : false,
+    "SUID" : 1691,
+    "name" : "CCND2 (-a>) CCND-CDK4_complex",
+    "value" : 9,
+    "interaction" : "-a>",
+    "shared_name" : "CCND2 (-a>) CCND-CDK4_complex",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1688",
+    "source" : 2,
+    "target" : 9,
+    "selected" : false,
+    "SUID" : 1688,
+    "name" : "CCND2 (-a>) CCND-CDK6_complex",
+    "value" : 7,
+    "interaction" : "-a>",
+    "shared_name" : "CCND2 (-a>) CCND-CDK6_complex",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1686",
+    "source" : 3,
+    "target" : 8,
+    "selected" : false,
+    "SUID" : 1686,
+    "name" : "CCND1 (-a>) CCND-CDK4_complex",
+    "value" : 6,
+    "interaction" : "-a>",
+    "shared_name" : "CCND1 (-a>) CCND-CDK4_complex",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1685",
+    "source" : 3,
+    "target" : 9,
+    "selected" : false,
+    "SUID" : 1685,
+    "name" : "CCND1 (-a>) CCND-CDK6_complex",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "CCND1 (-a>) CCND-CDK6_complex",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1681",
+    "source" : 4,
+    "target" : 6,
+    "selected" : false,
+    "SUID" : 1681,
+    "name" : "CDKN2B (-a>) INK4",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "CDKN2B (-a>) INK4",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1679",
+    "source" : 5,
+    "target" : 6,
+    "selected" : false,
+    "SUID" : 1679,
+    "name" : "CDKN2C (-a>) INK4",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "CDKN2C (-a>) INK4",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1683",
+    "source" : 6,
+    "target" : 8,
+    "selected" : false,
+    "SUID" : 1683,
+    "name" : "INK4 (-a>) CCND-CDK4_complex",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "INK4 (-a>) CCND-CDK4_complex",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1682",
+    "source" : 6,
+    "target" : 9,
+    "selected" : false,
+    "SUID" : 1682,
+    "name" : "INK4 (-a>) CCND-CDK6_complex",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "INK4 (-a>) CCND-CDK6_complex",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1677",
+    "source" : 7,
+    "target" : 6,
+    "selected" : false,
+    "SUID" : 1677,
+    "name" : "P16 (-a>) INK4",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "P16 (-a>) INK4",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1707",
+    "source" : 8,
+    "target" : 6,
+    "selected" : false,
+    "SUID" : 1707,
+    "name" : "CCND-CDK4_complex (-a>) INK4",
+    "value" : 7,
+    "interaction" : "-a>",
+    "shared_name" : "CCND-CDK4_complex (-a>) INK4",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1698",
+    "source" : 8,
+    "target" : 37,
+    "selected" : false,
+    "SUID" : 1698,
+    "name" : "CCND-CDK4_complex (-a>) ERK",
+    "value" : 7,
+    "interaction" : "-a>",
+    "shared_name" : "CCND-CDK4_complex (-a>) ERK",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1695",
+    "source" : 8,
+    "target" : 12,
+    "selected" : false,
+    "SUID" : 1695,
+    "name" : "CCND-CDK4_complex (-a>) RB1",
+    "value" : 9,
+    "interaction" : "-a>",
+    "shared_name" : "CCND-CDK4_complex (-a>) RB1",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1694",
+    "source" : 9,
+    "target" : 12,
+    "selected" : false,
+    "SUID" : 1694,
+    "name" : "CCND-CDK6_complex (-a>) RB1",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "CCND-CDK6_complex (-a>) RB1",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1670",
+    "source" : 11,
+    "target" : 10,
+    "selected" : false,
+    "SUID" : 1670,
+    "name" : "E2F1 (-a>) G1/S_progression",
+    "value" : 6,
+    "interaction" : "-a>",
+    "shared_name" : "E2F1 (-a>) G1/S_progression",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1668",
+    "source" : 12,
+    "target" : 11,
+    "selected" : false,
+    "SUID" : 1668,
+    "name" : "RB1 (-a>) E2F1",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "RB1 (-a>) E2F1",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1663",
+    "source" : 13,
+    "target" : 14,
+    "selected" : false,
+    "SUID" : 1663,
+    "name" : "CDK2 (-a>) CCNE-CDK2_complex",
+    "value" : 6,
+    "interaction" : "-a>",
+    "shared_name" : "CDK2 (-a>) CCNE-CDK2_complex",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1666",
+    "source" : 14,
+    "target" : 12,
+    "selected" : false,
+    "SUID" : 1666,
+    "name" : "CCNE-CDK2_complex (-a>) RB1",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "CCNE-CDK2_complex (-a>) RB1",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1661",
+    "source" : 15,
+    "target" : 14,
+    "selected" : false,
+    "SUID" : 1661,
+    "name" : "CCNE1 (-a>) CCNE-CDK2_complex",
+    "value" : 6,
+    "interaction" : "-a>",
+    "shared_name" : "CCNE1 (-a>) CCNE-CDK2_complex",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1649",
+    "source" : 20,
+    "target" : 21,
+    "selected" : false,
+    "SUID" : 1649,
+    "name" : "BRCA2 (-a>) BRCC",
+    "value" : 6,
+    "interaction" : "-a>",
+    "shared_name" : "BRCA2 (-a>) BRCC",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1653",
+    "source" : 21,
+    "target" : 18,
+    "selected" : false,
+    "SUID" : 1653,
+    "name" : "BRCC (-a>) DNA_repair",
+    "value" : 7,
+    "interaction" : "-a>",
+    "shared_name" : "BRCC (-a>) DNA_repair",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1654",
+    "source" : 22,
+    "target" : 18,
+    "selected" : false,
+    "SUID" : 1654,
+    "name" : "BASC (-a>) DNA_repair",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "BASC (-a>) DNA_repair",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1651",
+    "source" : 22,
+    "target" : 19,
+    "selected" : false,
+    "SUID" : 1651,
+    "name" : "BASC (-a>) MSH6",
+    "value" : 7,
+    "interaction" : "-a>",
+    "shared_name" : "BASC (-a>) MSH6",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1647",
+    "source" : 23,
+    "target" : 21,
+    "selected" : false,
+    "SUID" : 1647,
+    "name" : "BRCA1 (-a>) BRCC",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "BRCA1 (-a>) BRCC",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1645",
+    "source" : 23,
+    "target" : 22,
+    "selected" : false,
+    "SUID" : 1645,
+    "name" : "BRCA1 (-a>) BASC",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "BRCA1 (-a>) BASC",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1643",
+    "source" : 24,
+    "target" : 23,
+    "selected" : false,
+    "SUID" : 1643,
+    "name" : "ATM (-a>) BRCA1",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "ATM (-a>) BRCA1",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1641",
+    "source" : 24,
+    "target" : 27,
+    "selected" : false,
+    "SUID" : 1641,
+    "name" : "ATM (-a>) TP53",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "ATM (-a>) TP53",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1639",
+    "source" : 25,
+    "target" : 27,
+    "selected" : false,
+    "SUID" : 1639,
+    "name" : "EP300 (-a>) TP53",
+    "value" : 2,
+    "interaction" : "-a>",
+    "shared_name" : "EP300 (-a>) TP53",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1637",
+    "source" : 26,
+    "target" : 27,
+    "selected" : false,
+    "SUID" : 1637,
+    "name" : "MDM4 (-a>) TP53",
+    "value" : 11,
+    "interaction" : "-a>",
+    "shared_name" : "MDM4 (-a>) TP53",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1658",
+    "source" : 27,
+    "target" : 16,
+    "selected" : false,
+    "SUID" : 1658,
+    "name" : "TP53 (-a>) apoptosis",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "TP53 (-a>) apoptosis",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1656",
+    "source" : 27,
+    "target" : 17,
+    "selected" : false,
+    "SUID" : 1656,
+    "name" : "TP53 (-a>) G2/M_arrest",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "TP53 (-a>) G2/M_arrest",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1633",
+    "source" : 28,
+    "target" : 32,
+    "selected" : false,
+    "SUID" : 1633,
+    "name" : "ARF (-a>) MDM2",
+    "value" : 8,
+    "interaction" : "-a>",
+    "shared_name" : "ARF (-a>) MDM2",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1631",
+    "source" : 29,
+    "target" : 33,
+    "selected" : false,
+    "SUID" : 1631,
+    "name" : "TSC2 (-a>) TSC_complex",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "TSC2 (-a>) TSC_complex",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1629",
+    "source" : 30,
+    "target" : 33,
+    "selected" : false,
+    "SUID" : 1629,
+    "name" : "TSC1 (-a>) TSC_complex",
+    "value" : 2,
+    "interaction" : "-a>",
+    "shared_name" : "TSC1 (-a>) TSC_complex",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1635",
+    "source" : 32,
+    "target" : 27,
+    "selected" : false,
+    "SUID" : 1635,
+    "name" : "MDM2 (-a>) TP53",
+    "value" : 7,
+    "interaction" : "-a>",
+    "shared_name" : "MDM2 (-a>) TP53",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1710",
+    "source" : 33,
+    "target" : 60,
+    "selected" : true,
+    "SUID" : 1710,
+    "name" : "TSC_complex (-a>) GRB2",
+    "value" : 9,
+    "interaction" : "-a>",
+    "shared_name" : "TSC_complex (-a>) GRB2",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1696",
+    "source" : 33,
+    "target" : 103,
+    "selected" : false,
+    "SUID" : 1696,
+    "name" : "TSC_complex (-a>) LPA",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "TSC_complex (-a>) LPA",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1664",
+    "source" : 34,
+    "target" : 14,
+    "selected" : false,
+    "SUID" : 1664,
+    "name" : "CDKN1B (-a>) CCNE-CDK2_complex",
+    "value" : 6,
+    "interaction" : "-a>",
+    "shared_name" : "CDKN1B (-a>) CCNE-CDK2_complex",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1708",
+    "source" : 35,
+    "target" : 70,
+    "selected" : false,
+    "SUID" : 1708,
+    "name" : "CDKN1A (-a>) EGFRF",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "CDKN1A (-a>) EGFRF",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1674",
+    "source" : 37,
+    "target" : 8,
+    "selected" : false,
+    "SUID" : 1674,
+    "name" : "ERK (-a>) CCND-CDK4_complex",
+    "value" : 7,
+    "interaction" : "-a>",
+    "shared_name" : "ERK (-a>) CCND-CDK4_complex",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1672",
+    "source" : 37,
+    "target" : 9,
+    "selected" : false,
+    "SUID" : 1672,
+    "name" : "ERK (-a>) CCND-CDK6_complex",
+    "value" : 6,
+    "interaction" : "-a>",
+    "shared_name" : "ERK (-a>) CCND-CDK6_complex",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1610",
+    "source" : 37,
+    "target" : 36,
+    "selected" : false,
+    "SUID" : 1610,
+    "name" : "ERK (-a>) cell_cycle_progression",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "ERK (-a>) cell_cycle_progression",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1608",
+    "source" : 38,
+    "target" : 37,
+    "selected" : false,
+    "SUID" : 1608,
+    "name" : "MEK (-a>) ERK",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "MEK (-a>) ERK",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1706",
+    "source" : 39,
+    "target" : 80,
+    "selected" : false,
+    "SUID" : 1706,
+    "name" : "RAF1 (-a>) PTEN",
+    "value" : 6,
+    "interaction" : "-a>",
+    "shared_name" : "RAF1 (-a>) PTEN",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1602",
+    "source" : 39,
+    "target" : 42,
+    "selected" : false,
+    "SUID" : 1602,
+    "name" : "RAF1 (-a>) RAF",
+    "value" : 6,
+    "interaction" : "-a>",
+    "shared_name" : "RAF1 (-a>) RAF",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1600",
+    "source" : 40,
+    "target" : 42,
+    "selected" : false,
+    "SUID" : 1600,
+    "name" : "BRAF (-a>) RAF",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "BRAF (-a>) RAF",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1598",
+    "source" : 41,
+    "target" : 42,
+    "selected" : false,
+    "SUID" : 1598,
+    "name" : "ARAF (-a>) RAF",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "ARAF (-a>) RAF",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1703",
+    "source" : 42,
+    "target" : 21,
+    "selected" : false,
+    "SUID" : 1703,
+    "name" : "RAF (-a>) BRCC",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "RAF (-a>) BRCC",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1605",
+    "source" : 42,
+    "target" : 38,
+    "selected" : false,
+    "SUID" : 1605,
+    "name" : "RAF (-a>) MEK",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "RAF (-a>) MEK",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1697",
+    "source" : 51,
+    "target" : 68,
+    "selected" : false,
+    "SUID" : 1697,
+    "name" : "PKC (-a>) ERBB2",
+    "value" : 9,
+    "interaction" : "-a>",
+    "shared_name" : "PKC (-a>) ERBB2",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1606",
+    "source" : 51,
+    "target" : 38,
+    "selected" : false,
+    "SUID" : 1606,
+    "name" : "PKC (-a>) MEK",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "PKC (-a>) MEK",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1594",
+    "source" : 51,
+    "target" : 43,
+    "selected" : false,
+    "SUID" : 1594,
+    "name" : "PKC (-a>) PRKCA",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "PKC (-a>) PRKCA",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1592",
+    "source" : 51,
+    "target" : 44,
+    "selected" : false,
+    "SUID" : 1592,
+    "name" : "PKC (-a>) PRKCB1",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "PKC (-a>) PRKCB1",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1590",
+    "source" : 51,
+    "target" : 45,
+    "selected" : false,
+    "SUID" : 1590,
+    "name" : "PKC (-a>) PRKCI",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "PKC (-a>) PRKCI",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1588",
+    "source" : 51,
+    "target" : 46,
+    "selected" : false,
+    "SUID" : 1588,
+    "name" : "PKC (-a>) PRKCD",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "PKC (-a>) PRKCD",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1586",
+    "source" : 51,
+    "target" : 47,
+    "selected" : false,
+    "SUID" : 1586,
+    "name" : "PKC (-a>) PRKCG",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "PKC (-a>) PRKCG",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1584",
+    "source" : 51,
+    "target" : 48,
+    "selected" : false,
+    "SUID" : 1584,
+    "name" : "PKC (-a>) PRKCH",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "PKC (-a>) PRKCH",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1582",
+    "source" : 51,
+    "target" : 49,
+    "selected" : false,
+    "SUID" : 1582,
+    "name" : "PKC (-a>) PRKCQ",
+    "value" : 7,
+    "interaction" : "-a>",
+    "shared_name" : "PKC (-a>) PRKCQ",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1580",
+    "source" : 51,
+    "target" : 50,
+    "selected" : false,
+    "SUID" : 1580,
+    "name" : "PKC (-a>) PRKCZ",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "PKC (-a>) PRKCZ",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1578",
+    "source" : 52,
+    "target" : 51,
+    "selected" : false,
+    "SUID" : 1578,
+    "name" : "PLCG (-a>) PKC",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "PLCG (-a>) PKC",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1574",
+    "source" : 53,
+    "target" : 57,
+    "selected" : false,
+    "SUID" : 1574,
+    "name" : "NRAS (-a>) RAS",
+    "value" : 6,
+    "interaction" : "-a>",
+    "shared_name" : "NRAS (-a>) RAS",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1572",
+    "source" : 54,
+    "target" : 57,
+    "selected" : false,
+    "SUID" : 1572,
+    "name" : "HRAS (-a>) RAS",
+    "value" : 2,
+    "interaction" : "-a>",
+    "shared_name" : "HRAS (-a>) RAS",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1570",
+    "source" : 55,
+    "target" : 57,
+    "selected" : false,
+    "SUID" : 1570,
+    "name" : "KRAS (-a>) RAS",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "KRAS (-a>) RAS",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1568",
+    "source" : 56,
+    "target" : 57,
+    "selected" : false,
+    "SUID" : 1568,
+    "name" : "NF1 (-a>) RAS",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "NF1 (-a>) RAS",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1612",
+    "source" : 57,
+    "target" : 92,
+    "selected" : false,
+    "SUID" : 1612,
+    "name" : "RAS (-a>) PI3K1B",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "RAS (-a>) PI3K1B",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1596",
+    "source" : 57,
+    "target" : 42,
+    "selected" : false,
+    "SUID" : 1596,
+    "name" : "RAS (-a>) RAF",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "RAS (-a>) RAF",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1564",
+    "source" : 58,
+    "target" : 63,
+    "selected" : false,
+    "SUID" : 1564,
+    "name" : "CBL (-a>) RTK",
+    "value" : 6,
+    "interaction" : "-a>",
+    "shared_name" : "CBL (-a>) RTK",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1603",
+    "source" : 59,
+    "target" : 42,
+    "selected" : false,
+    "SUID" : 1603,
+    "name" : "SPRY2 (-a>) RAF",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "SPRY2 (-a>) RAF",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1563",
+    "source" : 59,
+    "target" : 58,
+    "selected" : false,
+    "SUID" : 1563,
+    "name" : "SPRY2 (-a>) CBL",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "SPRY2 (-a>) CBL",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1613",
+    "source" : 60,
+    "target" : 79,
+    "selected" : false,
+    "SUID" : 1613,
+    "name" : "GRB2 (-a>) GAB1",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "GRB2 (-a>) GAB1",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1566",
+    "source" : 60,
+    "target" : 57,
+    "selected" : false,
+    "SUID" : 1566,
+    "name" : "GRB2 (-a>) RAS",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "GRB2 (-a>) RAS",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1558",
+    "source" : 61,
+    "target" : 69,
+    "selected" : false,
+    "SUID" : 1558,
+    "name" : "ERRFI1 (-a>) EGFR",
+    "value" : 7,
+    "interaction" : "-a>",
+    "shared_name" : "ERRFI1 (-a>) EGFR",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1615",
+    "source" : 62,
+    "target" : 82,
+    "selected" : false,
+    "SUID" : 1615,
+    "name" : "IGF1R (-a>) IRS1",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "IGF1R (-a>) IRS1",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1553",
+    "source" : 62,
+    "target" : 63,
+    "selected" : false,
+    "SUID" : 1553,
+    "name" : "IGF1R (-a>) RTK",
+    "value" : 2,
+    "interaction" : "-a>",
+    "shared_name" : "IGF1R (-a>) RTK",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1701",
+    "source" : 63,
+    "target" : 51,
+    "selected" : false,
+    "SUID" : 1701,
+    "name" : "RTK (-a>) PKC",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "RTK (-a>) PKC",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1616",
+    "source" : 63,
+    "target" : 99,
+    "selected" : false,
+    "SUID" : 1616,
+    "name" : "RTK (-a>) PI3K2",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "RTK (-a>) PI3K2",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1614",
+    "source" : 63,
+    "target" : 81,
+    "selected" : false,
+    "SUID" : 1614,
+    "name" : "RTK (-a>) SRC",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "RTK (-a>) SRC",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1576",
+    "source" : 63,
+    "target" : 52,
+    "selected" : false,
+    "SUID" : 1576,
+    "name" : "RTK (-a>) PLCG",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "RTK (-a>) PLCG",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1560",
+    "source" : 63,
+    "target" : 60,
+    "selected" : false,
+    "SUID" : 1560,
+    "name" : "RTK (-a>) GRB2",
+    "value" : 8,
+    "interaction" : "-a>",
+    "shared_name" : "RTK (-a>) GRB2",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1551",
+    "source" : 64,
+    "target" : 63,
+    "selected" : false,
+    "SUID" : 1551,
+    "name" : "MET (-a>) RTK",
+    "value" : 2,
+    "interaction" : "-a>",
+    "shared_name" : "MET (-a>) RTK",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1548",
+    "source" : 65,
+    "target" : 66,
+    "selected" : false,
+    "SUID" : 1548,
+    "name" : "FGFR2 (-a>) FGFR",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "FGFR2 (-a>) FGFR",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1556",
+    "source" : 66,
+    "target" : 63,
+    "selected" : false,
+    "SUID" : 1556,
+    "name" : "FGFR (-a>) RTK",
+    "value" : 7,
+    "interaction" : "-a>",
+    "shared_name" : "FGFR (-a>) RTK",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1700",
+    "source" : 67,
+    "target" : 17,
+    "selected" : false,
+    "SUID" : 1700,
+    "name" : "FGFR1 (-a>) G2/M_arrest",
+    "value" : 9,
+    "interaction" : "-a>",
+    "shared_name" : "FGFR1 (-a>) G2/M_arrest",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1546",
+    "source" : 67,
+    "target" : 66,
+    "selected" : false,
+    "SUID" : 1546,
+    "name" : "FGFR1 (-a>) FGFR",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "FGFR1 (-a>) FGFR",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1543",
+    "source" : 68,
+    "target" : 70,
+    "selected" : false,
+    "SUID" : 1543,
+    "name" : "ERBB2 (-a>) EGFRF",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "ERBB2 (-a>) EGFRF",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1541",
+    "source" : 69,
+    "target" : 70,
+    "selected" : false,
+    "SUID" : 1541,
+    "name" : "EGFR (-a>) EGFRF",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "EGFR (-a>) EGFRF",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1699",
+    "source" : 70,
+    "target" : 43,
+    "selected" : false,
+    "SUID" : 1699,
+    "name" : "EGFRF (-a>) PRKCA",
+    "value" : 8,
+    "interaction" : "-a>",
+    "shared_name" : "EGFRF (-a>) PRKCA",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1555",
+    "source" : 70,
+    "target" : 63,
+    "selected" : false,
+    "SUID" : 1555,
+    "name" : "EGFRF (-a>) RTK",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "EGFRF (-a>) RTK",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1539",
+    "source" : 71,
+    "target" : 70,
+    "selected" : false,
+    "SUID" : 1539,
+    "name" : "ERBB3 (-a>) EGFRF",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "ERBB3 (-a>) EGFRF",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1536",
+    "source" : 72,
+    "target" : 73,
+    "selected" : false,
+    "SUID" : 1536,
+    "name" : "PDGFRB (-a>) PDGFR",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "PDGFRB (-a>) PDGFR",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1554",
+    "source" : 73,
+    "target" : 63,
+    "selected" : false,
+    "SUID" : 1554,
+    "name" : "PDGFR (-a>) RTK",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "PDGFR (-a>) RTK",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1534",
+    "source" : 74,
+    "target" : 73,
+    "selected" : false,
+    "SUID" : 1534,
+    "name" : "PDGFRA (-a>) PDGFR",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "PDGFRA (-a>) PDGFR",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1531",
+    "source" : 75,
+    "target" : 77,
+    "selected" : false,
+    "SUID" : 1531,
+    "name" : "FOXO4 (-a>) FOXO",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "FOXO4 (-a>) FOXO",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1702",
+    "source" : 76,
+    "target" : 63,
+    "selected" : false,
+    "SUID" : 1702,
+    "name" : "FOXO3 (-a>) RTK",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "FOXO3 (-a>) RTK",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1529",
+    "source" : 76,
+    "target" : 77,
+    "selected" : false,
+    "SUID" : 1529,
+    "name" : "FOXO3 (-a>) FOXO",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "FOXO3 (-a>) FOXO",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1704",
+    "source" : 77,
+    "target" : 36,
+    "selected" : false,
+    "SUID" : 1704,
+    "name" : "FOXO (-a>) cell_cycle_progression",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "FOXO (-a>) cell_cycle_progression",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1620",
+    "source" : 77,
+    "target" : 34,
+    "selected" : false,
+    "SUID" : 1620,
+    "name" : "FOXO (-a>) CDKN1B",
+    "value" : 2,
+    "interaction" : "-a>",
+    "shared_name" : "FOXO (-a>) CDKN1B",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1618",
+    "source" : 77,
+    "target" : 35,
+    "selected" : false,
+    "SUID" : 1618,
+    "name" : "FOXO (-a>) CDKN1A",
+    "value" : 1,
+    "interaction" : "-a>",
+    "shared_name" : "FOXO (-a>) CDKN1A",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1611",
+    "source" : 78,
+    "target" : 59,
+    "selected" : false,
+    "SUID" : 1611,
+    "name" : "FOXO1 (-a>) SPRY2",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "FOXO1 (-a>) SPRY2",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1527",
+    "source" : 78,
+    "target" : 77,
+    "selected" : false,
+    "SUID" : 1527,
+    "name" : "FOXO1 (-a>) FOXO",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "FOXO1 (-a>) FOXO",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1523",
+    "source" : 79,
+    "target" : 95,
+    "selected" : false,
+    "SUID" : 1523,
+    "name" : "GAB1 (-a>) PI3K1A",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "GAB1 (-a>) PI3K1A",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1521",
+    "source" : 80,
+    "target" : 88,
+    "selected" : false,
+    "SUID" : 1521,
+    "name" : "PTEN (-a>) PIP3",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "PTEN (-a>) PIP3",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1520",
+    "source" : 81,
+    "target" : 80,
+    "selected" : false,
+    "SUID" : 1520,
+    "name" : "SRC (-a>) PTEN",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "SRC (-a>) PTEN",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1518",
+    "source" : 81,
+    "target" : 95,
+    "selected" : false,
+    "SUID" : 1518,
+    "name" : "SRC (-a>) PI3K1A",
+    "value" : 2,
+    "interaction" : "-a>",
+    "shared_name" : "SRC (-a>) PI3K1A",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1516",
+    "source" : 82,
+    "target" : 95,
+    "selected" : false,
+    "SUID" : 1516,
+    "name" : "IRS1 (-a>) PI3K1A",
+    "value" : 1,
+    "interaction" : "-a>",
+    "shared_name" : "IRS1 (-a>) PI3K1A",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1514",
+    "source" : 83,
+    "target" : 86,
+    "selected" : false,
+    "SUID" : 1514,
+    "name" : "AKT3 (-a>) AKT",
+    "value" : 7,
+    "interaction" : "-a>",
+    "shared_name" : "AKT3 (-a>) AKT",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1512",
+    "source" : 84,
+    "target" : 86,
+    "selected" : false,
+    "SUID" : 1512,
+    "name" : "AKT2 (-a>) AKT",
+    "value" : 6,
+    "interaction" : "-a>",
+    "shared_name" : "AKT2 (-a>) AKT",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1510",
+    "source" : 85,
+    "target" : 86,
+    "selected" : false,
+    "SUID" : 1510,
+    "name" : "AKT1 (-a>) AKT",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "AKT1 (-a>) AKT",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1627",
+    "source" : 86,
+    "target" : 31,
+    "selected" : false,
+    "SUID" : 1627,
+    "name" : "AKT (-a>) cell_survival",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "AKT (-a>) cell_survival",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1625",
+    "source" : 86,
+    "target" : 32,
+    "selected" : false,
+    "SUID" : 1625,
+    "name" : "AKT (-a>) MDM2",
+    "value" : 2,
+    "interaction" : "-a>",
+    "shared_name" : "AKT (-a>) MDM2",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1623",
+    "source" : 86,
+    "target" : 33,
+    "selected" : false,
+    "SUID" : 1623,
+    "name" : "AKT (-a>) TSC_complex",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "AKT (-a>) TSC_complex",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1621",
+    "source" : 86,
+    "target" : 34,
+    "selected" : false,
+    "SUID" : 1621,
+    "name" : "AKT (-a>) CDKN1B",
+    "value" : 2,
+    "interaction" : "-a>",
+    "shared_name" : "AKT (-a>) CDKN1B",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1508",
+    "source" : 87,
+    "target" : 86,
+    "selected" : false,
+    "SUID" : 1508,
+    "name" : "PDPK1 (-a>) AKT",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "PDPK1 (-a>) AKT",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1506",
+    "source" : 88,
+    "target" : 87,
+    "selected" : false,
+    "SUID" : 1506,
+    "name" : "PIP3 (-a>) PDPK1",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "PIP3 (-a>) PDPK1",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1502",
+    "source" : 89,
+    "target" : 95,
+    "selected" : false,
+    "SUID" : 1502,
+    "name" : "PIK3R3 (-a>) PI3K1A",
+    "value" : 2,
+    "interaction" : "-a>",
+    "shared_name" : "PIK3R3 (-a>) PI3K1A",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1500",
+    "source" : 90,
+    "target" : 95,
+    "selected" : false,
+    "SUID" : 1500,
+    "name" : "PIK3R2 (-a>) PI3K1A",
+    "value" : 10,
+    "interaction" : "-a>",
+    "shared_name" : "PIK3R2 (-a>) PI3K1A",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1498",
+    "source" : 91,
+    "target" : 95,
+    "selected" : false,
+    "SUID" : 1498,
+    "name" : "PIK3R1 (-a>) PI3K1A",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "PIK3R1 (-a>) PI3K1A",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1524",
+    "source" : 92,
+    "target" : 88,
+    "selected" : false,
+    "SUID" : 1524,
+    "name" : "PI3K1B (-a>) PIP3",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "PI3K1B (-a>) PIP3",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1496",
+    "source" : 93,
+    "target" : 92,
+    "selected" : false,
+    "SUID" : 1496,
+    "name" : "PIK3CG (-a>) PI3K1B",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "PIK3CG (-a>) PI3K1B",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1493",
+    "source" : 94,
+    "target" : 95,
+    "selected" : false,
+    "SUID" : 1493,
+    "name" : "PIK3CB (-a>) PI3K1A",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "PIK3CB (-a>) PI3K1A",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1504",
+    "source" : 95,
+    "target" : 88,
+    "selected" : false,
+    "SUID" : 1504,
+    "name" : "PI3K1A (-a>) PIP3",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "PI3K1A (-a>) PIP3",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1705",
+    "source" : 96,
+    "target" : 88,
+    "selected" : false,
+    "SUID" : 1705,
+    "name" : "PIK3CA (-a>) PIP3",
+    "value" : 5,
+    "interaction" : "-a>",
+    "shared_name" : "PIK3CA (-a>) PIP3",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1491",
+    "source" : 96,
+    "target" : 95,
+    "selected" : false,
+    "SUID" : 1491,
+    "name" : "PIK3CA (-a>) PI3K1A",
+    "value" : 4,
+    "interaction" : "-a>",
+    "shared_name" : "PIK3CA (-a>) PI3K1A",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1488",
+    "source" : 99,
+    "target" : 102,
+    "selected" : false,
+    "SUID" : 1488,
+    "name" : "PI3K2 (-a>) PIK3C2B",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "PI3K2 (-a>) PIK3C2B",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1487",
+    "source" : 99,
+    "target" : 97,
+    "selected" : false,
+    "SUID" : 1487,
+    "name" : "PI3K2 (-a>) PIK3C2G",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "PI3K2 (-a>) PIK3C2G",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1485",
+    "source" : 99,
+    "target" : 98,
+    "selected" : false,
+    "SUID" : 1485,
+    "name" : "PI3K2 (-a>) PIK3C2A",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "PI3K2 (-a>) PIK3C2A",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1482",
+    "source" : 101,
+    "target" : 100,
+    "selected" : false,
+    "SUID" : 1482,
+    "name" : "PI_3_P (-a>) cell_migration",
+    "value" : 3,
+    "interaction" : "-a>",
+    "shared_name" : "PI_3_P (-a>) cell_migration",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1480",
+    "source" : 102,
+    "target" : 101,
+    "selected" : false,
+    "SUID" : 1480,
+    "name" : "PIK3C2B (-a>) PI_3_P",
+    "value" : 2,
+    "interaction" : "-a>",
+    "shared_name" : "PIK3C2B (-a>) PI_3_P",
+    "shared_interaction" : "-a>"
+  }, {
+    "id" : "1478",
+    "source" : 103,
+    "target" : 102,
+    "selected" : false,
+    "SUID" : 1478,
+    "name" : "LPA (-a>) PIK3C2B",
+    "value" : 1,
+    "interaction" : "-a>",
+    "shared_name" : "LPA (-a>) PIK3C2B",
+    "shared_interaction" : "-a>"
+  } ]
+}
